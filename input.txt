@@ -1,0 +1,18 @@
+<table width=500 align=center bgcolor=#CCCCCC>
+	</table>
+	<br><table width=500 align=center bgcolor=#CCCCCC>
+		<tr bgcolor=#006600>
+			<td width=350 height=50>
+				<font color =white> positif</font> 
+				<td><font color =red> 2902 </font></td></td>
+				
+				<td width=350 height=50><font color =white> dirawat </font>
+				<td><font color =red> 1769 </font></td></td>
+				
+			<td width=350>
+				<font color =white> sembuh </font> 
+				<td><font color =red> 206 </font></td></td> 
+			<td width=350 height=50>	
+				<font color =white> meninggal </font>
+				<td><font color =red> 257 </font></td></td>
+			</td>
